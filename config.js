@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "HAIKO~MDX~",
+SESSION_ID: process.env.SESSION_ID || "HAIKO~MDX~kdYG3TgA#ARZvl9jozQ3MySWTPXOXerCg4AXCoBe1iTSpAekmq_Q",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -25,11 +25,11 @@ MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/xp1wdz.jpg",
 // add custom menu and mention reply image url
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "🧃",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝐇𝐀𝐈𝐊𝐎-𝐌𝐃𝐗-𝐕𝟐",
+BOT_NAME: process.env.BOT_NAME || "✰𝆺꯭𝅥𝖄𝐯𝑦 🥷🏾✞ㅤ♚||• 𝑊𝑒𝑛𝑠𝑙𝑎𝑦✞🦇",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "🌸♡𝐋𝐄 𝐌𝐄𝐂  𝐃'𝐔𝐍𝐄 𝐒𝐄𝐔𝐋𝐄 𝐌𝐄𝐔𝐅♡💕",
+STICKER_NAME: process.env.STICKER_NAME || "✰𝆺꯭𝅥𝖄𝐯𝑦 🥷🏾✞ㅤ♚||• 𝑊𝑒𝑛𝑠𝑙𝑎𝑦✞🦇",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -39,7 +39,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "529633982655",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𝐏𝐑𝐎𝐅-𝐗𝐓𝐑𝐄𝐌𝐄",
+OWNER_NAME: process.env.OWNER_NAME || "🤴🏽✮⃝𝐏𝐑𝐈𝐍𝐂𝐄 ✨ⓟ⃝♦️✮⃝𝐖𝐄𝐍𝐒𝐋𝐀𝐘ⓧ⃝",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇᴠ xᴛʀᴇᴍᴇ*",
 // add bot owner name    
